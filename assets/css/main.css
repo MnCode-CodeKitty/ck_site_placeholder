@@ -2253,6 +2253,10 @@
 			}
 
 /* List */
+	li.current-loc {
+		color: #37a6cb !important
+
+	}
 
 	ol {
 		list-style: decimal;
